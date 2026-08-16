@@ -46,8 +46,6 @@ flowchart LR
 
 ## Skills & tools
 
-> Keep only the badges that represent tools you genuinely use. Remove the rest or add your own.
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
