@@ -4,9 +4,12 @@
 
 ### Data & machine learning enthusiast building practical, insight-driven projects.
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%7C+Machine+Learning+%7C+Data+Analytics;Exploring+data.+Building+practical+models." alt="Typing introduction" />
+
 <p>
   <a href="https://github.com/Vedanshu-co"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Pune%2C%20India-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pune, India" />
+  <img src="https://komarev.com/ghpvc/?username=Vedanshu-co&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 </div>
@@ -71,6 +74,12 @@ flowchart LR
   <img src="https://github-readme-stats.vercel.app/api?username=Vedanshu-co&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedanshu-co&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most-used languages" />
 </p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=Vedanshu-co&hide_border=true&background=FFFFFF00" alt="GitHub contribution streak" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedanshu-co&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub contribution graph" />
 
 ---
 
