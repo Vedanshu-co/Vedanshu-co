@@ -11,6 +11,17 @@
 
 </div>
 
+```text
+> whoami
+Vedanshu Nakade — Data & Machine Learning
+
+> focus
+Machine Learning · Computer Vision · Exploratory Data Analysis
+
+> toolkit
+Python · Jupyter · Pandas · scikit-learn · OpenCV · Seaborn · Git
+```
+
 ## About me
 
 I'm focused on data analysis and machine-learning projects that turn real-world questions into useful insights. I enjoy exploring data, training practical models, and building clear, reproducible notebooks.
@@ -19,12 +30,29 @@ I'm focused on data analysis and machine-learning projects that turn real-world 
 - 🔭 Building projects with **Python and Jupyter notebooks**
 - 💬 Ask me about **data cleaning, exploratory analysis, and regression**
 
+## Technical focus
+
+```mermaid
+flowchart LR
+  D[Raw data] --> E[Explore & clean]
+  E --> M[Build models]
+  M --> I[Interpret results]
+  I --> P[Practical project]
+```
+
+- **Machine learning:** regression and model-based prediction
+- **Computer vision:** face-recognition workflows with OpenCV and LBPH
+- **Data analytics:** cleaning, visualization, pattern discovery, and reporting
+
 ## Skills & tools
+
+> Keep only the badges that represent tools you genuinely use. Remove the rest or add your own.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
